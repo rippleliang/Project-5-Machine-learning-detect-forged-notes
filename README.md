@@ -1,0 +1,2 @@
+# Project-5-Machine-learning-detect-forged-notes
+This is a machine learning project for a forged notes detecting machine. I firstly used linear regression model to treat the missing value in the training dataset. Then, I used clustering like Kmeans and classification like logistic regression model to detect the forge notes. Finally, I created functions that can be used for production and created a web version with Streamlit to allow algo to run online.
